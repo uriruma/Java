@@ -1,0 +1,2 @@
+Mikonos		Andromeda		56		Warm		false		true		Mitisaka
+Earth		Lactea		700		Tempered		true		true		Oriol		Lester
